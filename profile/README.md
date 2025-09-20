@@ -1,4 +1,4 @@
 ## Hello this VoidWorks!
 
-See [https://voidworks.k-on.plus/](https://voidworks.k-on.plus/)
+See [https://docs.voidworks.link/](https://docs.voidworks.link/)
 
